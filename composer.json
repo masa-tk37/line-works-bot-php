@@ -1,0 +1,18 @@
+{
+    "name": "masa-tk37/line-works-talk-bot",
+    "description": "",
+    "authors": [
+        {
+            "name": "masa-tk37",
+            "email": "masa.tk37@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apricot\\LineWorks\\": "src/"
+        }
+    }
+}
